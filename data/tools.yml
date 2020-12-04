@@ -3,7 +3,7 @@ tools:
 - title: Android
   tool:
   - name: Binary Eye Barcode Scanner
-    image: ''
+    image: "/images/unnamed.png"
     link: https://github.com/markusfisch/BinaryEye
 - title: Dev Tools
   tool:
