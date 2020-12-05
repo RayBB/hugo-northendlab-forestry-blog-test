@@ -25,4 +25,5 @@ fields:
   label: type
   default: post
 pages:
+- content/book-notes-the-secret-life-of-groceries-the-dark-miracle-of-the-american-supermarket-by-benjamin-lorr.md
 - content/ray-is-here-kids.md
