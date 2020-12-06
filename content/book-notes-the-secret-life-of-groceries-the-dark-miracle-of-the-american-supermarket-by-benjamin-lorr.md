@@ -3,7 +3,6 @@ author = "Ray Berger"
 categories = ["book notes"]
 date = 2020-12-05T23:00:00Z
 description = "I never thought grocery stories would tug on my heartstrings."
-draft = true
 image = ""
 title = "Book Notes:  The Secret Life of Groceries: The Dark Miracle of the American Supermarket by Benjamin Lorr"
 type = "post"
