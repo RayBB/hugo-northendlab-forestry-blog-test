@@ -25,7 +25,7 @@ enable = true
 
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, I'm Ray Berger. <br> I am trying to figure out how blogs work."
 image = "images/banner/illustration.svg"
 
 [params.cta]
